@@ -84,9 +84,9 @@ const About = () => {
 
             <div className="flex gap-x-8 items-center">
               <button className="btn btn-lg">Contact me</button>
-              <a href="#" className="text-gradient btn-link">
+              <small className="text-gradient btn-link">
                 My Portfolio
-              </a>
+              </small>
             </div>
           </motion.div>
         </div>

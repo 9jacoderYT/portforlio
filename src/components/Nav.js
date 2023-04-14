@@ -1,10 +1,9 @@
 import React from "react";
 //  Import Icons
-import { BiClipboard, BiHomeAlt, BiUser } from "react-icons/bi";
+import { BiHomeAlt, BiUser } from "react-icons/bi";
 import {
   BsClipboardData,
   BsBriefcase,
-  BsChatSquare,
   BsChatSquareText,
 } from "react-icons/bs";
 // Link
